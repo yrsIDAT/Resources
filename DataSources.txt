@@ -1,0 +1,14 @@
+Predictions (suggests if beach may be busy)
+	Weather
+	Twitter
+
+Real Time (suggests if beach is busy currently)
+	Webcams
+	User Input
+	4sq
+
+Selection (ranks beaches out of 5)
+	Water Quality
+	Facilites
+	Popularity
+	User input
